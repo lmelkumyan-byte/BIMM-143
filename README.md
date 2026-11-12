@@ -1,2 +1,3 @@
 # BIMM 143
-My Classwork
+My Classwork for BIMM143 at UCSD
+
